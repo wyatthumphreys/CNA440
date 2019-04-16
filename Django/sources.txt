@@ -1,0 +1,6 @@
+https://docs.djangoproject.com/en/2.2/intro/tutorial01/
+https://simpleisbetterthancomplex.com/tutorial/2018/08/13/how-to-use-bootstrap-4-forms-with-django.html
+https://tech.marksblogg.com/crushing-caching-cdn-django.html
+https://stackoverflow.com/questions/11488838/multiple-applications-with-django
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_webpage&stacked=h
