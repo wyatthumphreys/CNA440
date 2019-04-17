@@ -19,6 +19,7 @@ from django.conf.urls import include, url
 urlpatterns = [
     url(r'^poll/', include('cna440.urls')), #this line added
     url(r'^boot/', include('bootsrap_main.urls')),#bootline
+    url(r'^animate/', include('animate.urls')),#animate line
     url(r'^admin/', admin.site.urls),
     url(r'^', include('static_host.urls')),
     url(r'^polls/', include('static_host.urls')), #this line added

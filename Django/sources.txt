@@ -4,3 +4,5 @@ https://tech.marksblogg.com/crushing-caching-cdn-django.html
 https://stackoverflow.com/questions/11488838/multiple-applications-with-django
 https://www.w3schools.com/bootstrap/bootstrap_templates.asp
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_webpage&stacked=h
+https://getflywheel.com/layout/best-javascript-libraries-frameworks-2019/
+https://github.com/tobiasahlin/moving-letters/blob/master/08-hey.html
